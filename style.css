@@ -95,17 +95,20 @@ a{
         /* justify-self: unset; */
         width: 100vw;
         /* text-align: center; */
-        justify-content: space-between;
+        /* justify-content: space-between; */
         height: 100vh;
         font-size: 14px;
     }
     #about{
         margin-top: 0;
         font-size: 20px;
-        border: 1px solid red;
-        display: none;
+        /* border: 1px solid red; */
+        /* display: none; */
         height: 20;
-        margin-bottom: -700px;
+        /* margin-bottom: -700px; */
+    }
+    #fb{
+        padding-top: 70px;
     }
     
     #main h2{
@@ -151,5 +154,9 @@ a{
         border: none;
         font-size: 14px;
         font-weight: bold;
+    }
+    #form{
+        /* border: 1px solid red; */
+        height: 100vh;
     }
 }
